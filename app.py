@@ -531,13 +531,13 @@ def plot_state():
 ## functions end here, title, sidebar setting and descriptions start here
 t1, t2 = st.columns(2)
 with t1:
-    st.markdown('# COVID-19 Data and Reporting')
+    st.markdown('# Automated Centralised Reporting 2023')
 
 with t2:
     st.write("")
     st.write("")
     st.write("""
-    **EpiCenter for Disease Dynamics** | School of Veterinary Medicine - UC Davis
+    **Reporting Dynamics** | Initio Consulting Group
     """)
 
 st.write("")
@@ -548,9 +548,9 @@ Phase 3: Economic recovery: Current estimate of <10 cases per 100,000 population
 *daily testing data currently available only for Los Angeles County, Orange County, and San Diego County  
 
 for more details related to thresholds please see  
-See more at https://www.covidlocal.org/metrics/.    
+See more at https://www.cssf.lu/wp-content/uploads/Reporting_requirements_final.pdf
 
-For additional information please contact *epicenter@ucdavis.edu* or visit https://ohi.vetmed.ucdavis.edu/centers/epicenter-disease-dynamics.  
+For additional information please contact *sitrakaforler@gmail.com* or visit https://www.cssf.lu/en/.  
 """)
 
 
