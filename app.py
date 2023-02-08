@@ -29,7 +29,7 @@ st.set_page_config(
 
 sidebar_selection = st.sidebar.radio(
     'Select data:',
-    ['Select Counties', 'California'],
+    ['Select Reporting Type', 'IFRS', 'GAAP'],
 )
 
 @st.cache(ttl=3*60*60, suppress_st_warning=True)
