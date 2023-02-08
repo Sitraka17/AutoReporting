@@ -542,10 +542,13 @@ with t2:
 
 st.write("")
 st.markdown("""
-COVID-Local provides basic key metrics against which to assess pandemic response and progress toward reopening.  
-Phase 2: Initial re-opening: Current esetimate of <25 cases per 100,000 population per day  
-Phase 3: Economic recovery: Current estimate of <10 cases per 100,000 population per day   
-*daily testing data currently available only for Los Angeles County, Orange County, and San Diego County  
+The CSSF (Commission de Surveillance du Secteur Financier) in Luxembourg recognizes both International Financial Reporting Standards (IFRS) and Generally Accepted Accounting Principles (GAAP) reporting types.
+
+IFRS is a set of global accounting standards developed by the International Accounting Standards Board (IASB), while GAAP refers to the accounting standards and guidelines used in the United States.
+
+The main difference between the two reporting types is their scope and level of detail. IFRS provides more broad-based guidelines, while GAAP is more specific and prescriptive. In terms of reporting requirements, IFRS often requires more disclosures and is considered more principle-based, while GAAP is considered more rule-based.
+
+Luxembourg-based entities must choose either IFRS or GAAP for their financial reporting, and the CSSF requires them to comply with the chosen reporting framework.
 
 for more details related to thresholds please see  
 See more at https://www.cssf.lu/wp-content/uploads/Reporting_requirements_final.pdf
